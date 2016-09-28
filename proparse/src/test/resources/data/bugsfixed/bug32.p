@@ -1,10 +1,2 @@
-&IF "" <> "":U &THEN
-
-&ENDIF
-
-&SCOPED-DEFINE FOO "BAR"
-&IF {&FOO} <> "":U &THEN
-
-&ENDIF
-
-{data/bugsfixed/bug32.i}
+{data/bugsfixed/bug32-1.i}
+{data/bugsfixed/bug32-2.i}

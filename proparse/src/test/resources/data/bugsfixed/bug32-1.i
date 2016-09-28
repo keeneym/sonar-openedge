@@ -1,0 +1,1 @@
+&global-define foo "abc"
